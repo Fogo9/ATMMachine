@@ -218,6 +218,5 @@ public class atmmachine{
                     }
                 }
         }
-
     }
 }
