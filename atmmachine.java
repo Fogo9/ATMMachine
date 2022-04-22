@@ -214,7 +214,6 @@ public class atmmachine{
                                 System.out.println("Your Remaining Rights : " + right);
 
                                 break;
-
                             }
                         }
                     }
