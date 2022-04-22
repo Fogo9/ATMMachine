@@ -119,7 +119,6 @@ public class atmmachine{
                             }
                         }
                     }
-
                 }
 
                 if(select == 2){
