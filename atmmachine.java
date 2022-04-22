@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class atmmachine{
+    
     public static void main(String[] args) {
 
         int balance = 5000, right = 3, select = 0, price;
