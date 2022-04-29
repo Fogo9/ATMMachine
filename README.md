@@ -379,17 +379,17 @@
     Please select the action you want to take : 4
     Signed Out of The System! See You Again.
 
-```
+```   
 
 <br />
 
-LINK
+## LINK
 
 * Click here https://github.com/Fogo9/ATMMachine.git to access the Github page for this project.
 
 <br />
 
-LICENSE
+## LICENSE
 
 * This software is licensed By Tuncay Demir under the MIT license.
 
