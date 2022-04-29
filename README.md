@@ -1,14 +1,14 @@
 # **ATM MACHINE**
 
-# Information
+## INFORMATION
 
 * **You can do anything with virtual money at this ATM.**
 
-# Technologies Used
+## TECHNOLOGIES USED
 
 * **JAVA**
 
-# Contents
+## CONTENTS
 
 * The variables **balance**, **right**, **select** and **price** are defined with int.
 
@@ -22,9 +22,7 @@
 
 * Multi-currency added.
 
-<br />
-
-# Codes
+## CODES
 
 ```Java
 
@@ -385,13 +383,13 @@
 
 <br />
 
-# LINK
+## LINK
 
 * Click here https://github.com/Fogo9/ATMMachine.git to access the Github page for this project.
 
 <br />
 
-# LICENSE
+## LICENSE
 
 * This software is licensed By Tuncay Demir under the MIT license.
 
